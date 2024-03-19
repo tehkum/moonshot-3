@@ -1,0 +1,66 @@
+.upper-header_items {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.52px;
+    color: #333;
+}
+
+.upper-header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 15px;
+    gap: 20px
+}
+
+.lower-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+
+.lower-header h1 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38.73px;
+    margin: 0;
+    margin-left: 20px
+}
+
+.nav-items {
+    display: flex;
+    gap: 40px;
+    align-self: flex-end;
+}
+
+.nav-items span {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: #000;
+}
+
+.nav-icons {
+    display: flex;
+    gap: 45px;
+    margin-right: 40px;
+}
+
+.offer-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-top: 20px;
+    gap: 20px;
+
+}
+
+.offer-header p {
+    margin: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.94px;
+}
